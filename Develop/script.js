@@ -1,3 +1,5 @@
+var pwlength = prompt("Enter number of characters you would like your password to be.");
+var spchar = prompt("Are special characters allowed? Enter 'y' or 'n'").toLowerCase;
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
 
